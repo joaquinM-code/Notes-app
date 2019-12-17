@@ -25,9 +25,9 @@ const addNote =(title,body)=>{
             body
         })
         saveNotes(notes);
-        console.log(chalk.green('Note added successfully!!'))
+        console.log(chalk.green('Note added successfully!!'));
     }else{
-        console.log(chalk.red.bold('Title already taken!'))
+        console.log(chalk.red.bold('Title already taken!'));
     }
     
 }
