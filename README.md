@@ -1,2 +1,2 @@
 # cursonode
-Nodejs couse files
+Nodejs course files
