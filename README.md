@@ -1,2 +1,0 @@
-# cursonode
-Nodejs course files
